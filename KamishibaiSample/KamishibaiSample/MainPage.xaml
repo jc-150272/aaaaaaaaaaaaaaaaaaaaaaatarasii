@@ -25,4 +25,5 @@
         <Button Text="CarouselPage" Command="{Binding RequestCarouselPageCommand}"/>
     </StackLayout>
 
+    
 </ContentPage>
